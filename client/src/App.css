@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans Condensed";
+  padding: 1.25rem 3.75rem;
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}

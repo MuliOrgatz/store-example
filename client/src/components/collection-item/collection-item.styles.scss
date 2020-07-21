@@ -1,0 +1,10 @@
+.alert-custom {
+  margin-top: 9rem;
+  position: absolute;
+}
+
+@media (hover: none) and (pointer: coarse) {
+  .button-respo {
+    display: flex;
+  }
+}
